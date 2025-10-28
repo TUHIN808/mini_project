@@ -31,7 +31,7 @@
 }
 
 p {
-    background-color: antiquewhite;
+    background-color: #faebd7;
 }
 
 #divbox {
@@ -50,13 +50,13 @@ p {
     
 
     text-align: center;
-    background-color: antiquewhite;
+    background-color: #faebd7;
 
 
     padding-top: 20px;
     display: inline-block;
     margin: 0 auto;
-    background-color: antiquewhite;
+    background-color: #faebd7;
 
 
 }
@@ -64,7 +64,7 @@ p {
 .icons a {
     display: inline-block;
     margin: 0 auto;
-    background-color: antiquewhite;
+    background-color: #faebd7;
 
 
 }
@@ -73,16 +73,17 @@ p {
     margin-top: 50px;
 padding-left: 20px;
     width: 40px;
-    background-color: antiquewhite;
+    background-color: #faebd7;
    
 }
 
 section {
+    
     background-color: antiquewhite;
     margin: 30px auto;
     height: 400px;
     width: 300px;
-    border: 6px double rgb(101, 101, 165);
+    border: 6px double #6565a5;
     border-radius: 30px;
 
 }
